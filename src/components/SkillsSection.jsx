@@ -2,25 +2,25 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
-    year: "2025",
-    company: "OpenAI",
-    role: "Frontend Engineer",
+    year: "September 2025 –  December 2025",
+    company: "University Of Waterloo",
+    role: "Programmer Intern",
     description:
       "Worked on building dynamic interfaces with React, Next.js, and TypeScript. Collaborated with designers and backend teams to deliver high-performance user experiences.",
   },
   {
-    year: "2023 - 2024",
-    company: "TechVision Labs",
-    role: "Full Stack Developer",
+    year: "January 2025 –  April 2025",
+    company: "Pinkbyte Inc",
+    role: "Software Developer Intern",
     description:
-      "Developed scalable full-stack web apps using Node.js and React. Led implementation of reusable UI components with Tailwind CSS.",
+      "Built automation-driven inventory and shipment systems integrating MySQL, VBA, and FedEx APIs to reduce manual work and enhance data accuracy.",
   },
   {
-    year: "2021 - 2023",
-    company: "Freelance",
-    role: "Web Developer",
+    year: "May 2024 – August 2024",
+    company: "Pinkbyte Inc",
+    role: "Software Developer Intern",
     description:
-      "Built responsive websites and dashboards for small businesses. Focused on accessibility, SEO, and performance optimization.",
+      "Developed backend services and monitoring tools using Python, Flask, and MySQL to improve server synchronization and system reliability.",
   },
 ];
 
