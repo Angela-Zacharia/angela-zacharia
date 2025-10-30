@@ -6,7 +6,7 @@ const experiences = [
     company: "University Of Waterloo",
     role: "Programmer Intern",
     description:
-      "Worked on building dynamic interfaces with React, Next.js, and TypeScript. Collaborated with designers and backend teams to deliver high-performance user experiences.",
+      "Developed automation scripts and optimized POS data reporting systems to streamline sales analysis and improve reporting efficiency.",
   },
   {
     year: "January 2025 –  April 2025",
