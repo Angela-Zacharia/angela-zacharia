@@ -58,15 +58,6 @@ export const SkillsSection = () => {
             </motion.div>
           ))}
         </div>
-
-                  {/* 👇 GIF goes here */}
-      <div className="mt-12 flex justify-center">
-          <img
-            src="\src\components\hdLgwx2.gif"
-            alt="Celebration"
-            className="w-64 h-auto rounded-lg shadow-lg"
-          />
-        </div>
       </div>
     </section>
   );
