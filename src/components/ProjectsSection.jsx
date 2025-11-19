@@ -49,7 +49,7 @@ export const ProjectsSection = () => {
                 className="bg-card rounded-xl p-6 shadow-sm hover:shadow-lg transition relative overflow-hidden border border-primary/10"
               >
                 {/* Floating accent gradient */}
-                <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-transparent opacity-0 hover:opacity-100 transition duration-300 rounded-xl" />
+                <div className="absolute inset-0 bg-gradient-to-br from-primary/10 to-transparent opacity-0 hover:opacity-100 transition duration-300 rounded-xl pointer-events-none" />
 
                 <h3 className="text-xl font-semibold mb-2">{project.title}</h3>
                 <p className="text-muted-foreground text-sm mb-3">{project.description}</p>
