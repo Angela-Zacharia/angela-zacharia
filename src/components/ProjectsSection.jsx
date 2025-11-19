@@ -7,24 +7,22 @@ const projects = [
     tech: ["React", "Tailwind CSS", "Framer Motion"],
     description:
       "A personal portfolio site to showcase projects, experience, and design flair — fully responsive and animated!",
-    github: "https://github.com/yourusername/portfolio",
-    demo: "https://yourportfolio.com",
+    github: "https://github.com/Angela-Zacharia/angela-zacharia",
+    demo: "https://angela-zacharia.netlify.app/",
   },
   {
-    title: "Chat App",
-    tech: ["Node.js", "Socket.io", "Express"],
+    title: "Food Savor - Food Management System",
+    tech: ["JavaScript", "Firebase", "Raspberry Pi"],
     description:
-      "A real-time chat application with rooms, emojis, and user authentication — built for fun conversations.",
-    github: "https://github.com/yourusername/chat-app",
-    demo: "https://chat-app-demo.netlify.app",
+      "Designed and built a Food Management and Recipe Display system, leveraging serial numbers to efficiently track product breakdowns and associated recipes.",
+    demo: "https://sehgal-arjun.github.io/foodsavour/index.html",
   },
   {
-    title: "AI Image Generator",
-    tech: ["Next.js", "OpenAI API", "Cloudinary"],
+    title: "RAIInet",
+    tech: ["C++", "OOP"],
     description:
-      "Created an AI-powered image generator where users can craft images from text prompts and share them.",
-    github: "https://github.com/yourusername/ai-image-generator",
-    demo: "https://ai-image-generator.app",
+      "Engineered a modular, turn-based C++ strategy game using OOP and encapsulated gameplay classes",
+    github: "https://github.com/Angela-Zacharia/RAIInet"
   },
 ];
 
