@@ -1,6 +1,13 @@
 import { motion } from "framer-motion";
 
 const experiences = [
+   {
+    year: "May 2026 –  August 2026",
+    company: "Maneva AI",
+    role: "Software Developer Intern",
+    description:
+      "Developed and optimized software for AI-powered computer vision systems, improving real-time industrial monitoring, defect detection, and production pipeline reliability.",
+  },
   {
     year: "September 2025 –  December 2025",
     company: "University Of Waterloo",
